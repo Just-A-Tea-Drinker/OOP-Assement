@@ -61,7 +61,7 @@ namespace CMP1903M_Assessment_1_Base_Code
                     //Obtaining if there are any words larger 7 characters
                     Analyse.Word7Letters(input.text);
 
-                    //Counting the frequencies of the letters in the alphabet
+                    //Counting the frequencies of the letters in the alphabet this does this by an custom made class.
                     LetterFreq Lettercount = new LetterFreq();
                     var LetterFrequency = Lettercount.Get_Freq_letter(input.text);
 
