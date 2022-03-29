@@ -14,7 +14,7 @@ namespace CMP1903M_Assessment_1_Base_Code
         {
             while (true)
             {
-                //Local list of integers to hold the first five measurements of the text
+                //Local list of integers to hold the first five measurements of the text 
                 List<int> parameters = new List<int>();
 
                 //Create 'Input' object
