@@ -8,7 +8,7 @@ namespace CMP1903M_Assessment_1_Base_Code
 {
     public class LetterFrequency
     {
-        //class dedicated to finding the frequency of the letters in the alphabet of the given text or file this is a form of data abstraction
+        //class dedicated to finding the frequency of the letters in the alphabet of the given text or file this is a form of data abstraction.
         public Dictionary<string, int> Get_Freq_letter(string input)
         {
 
